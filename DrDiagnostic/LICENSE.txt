@@ -1,0 +1,14 @@
+Dr Diagnostic Mod License
+=========================
+
+Copyright © 2025 roseberry
+
+All rights reserved. This mod and its source code are provided for personal use only. You may install and use the compiled binaries in your own RimWorld game, but you may not do any of the following without prior written permission from the copyright holder:
+
+1. Copy, modify, merge, translate, adapt, reverse engineer, or create derivative works based on the mod or any portion of it.
+2. Publish, distribute, sublicense, sell, rent, lease, or otherwise make the mod (source or binaries) available to any third party.
+3. Upload the mod or any altered version of it to the Steam Workshop, GitHub, NexusMods, or any other distribution service.
+
+The mod is provided “as is”, without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from, out of, or in connection with the mod or the use or other dealings in the mod.
+
+If you wish to redistribute or extend the mod, please contact the copyright holder to request permission.
