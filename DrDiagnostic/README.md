@@ -1,6 +1,6 @@
 # Dr Diagnostic
 
-Standalone analyzer companion for RimWorld 1.6 that captures snapshots from **Dubs Performance Analyzer** and writes portable logs you can review or share. Originally forked from the in-house diagnostics tools, Dr Diagnostic is designed for any load order.
+Companion diagnostic tool for RimWorld 1.6 that captures snapshots from **Dubs Performance Analyzer** and writes portable logs you can review or share. Originally forked from in-house diagnostics tools, Dr Diagnostic is designed for any mod list.
 
 ## Features
 - Automated CSV exports of Analyzer samples on a configurable interval.
@@ -14,7 +14,7 @@ Standalone analyzer companion for RimWorld 1.6 that captures snapshots from **Du
 
 ## Installation
 1. Copy the `release/DrDiagnostic/` folder into your RimWorld `Mods/` directory (or point your mod manager at it).
-2. In the RimWorld mod list, enable **Dubs Performance Analyzer** and place **Dr Diagnostic** immediately after it.
+2. In the RimWorld mod list, enable **Dubs Performance Analyzer** and place **Dr Diagnostic** immediately after it - preferably keeping both at the bottom of the mod list. 
 3. Restart the game if prompted.
 
 ## Configuration
@@ -33,7 +33,7 @@ Open **Options → Mod Settings → Dr Diagnostic** to adjust:
 On macOS you may see a Files & Folders permission prompt when the mod first targets the Desktop. Grant access to keep logs on the Desktop; otherwise the fallback path engages automatically.
 
 ## Releases
-- **r001 (2025-10-17)** – Initial public fork from Nano Diagnostics; independent packageId `roseberry.drdiagnostic`.
+- **r001 (2025-10-17)** – Initial public release; independent packageId `roseberry.drdiagnostic`.
 - **r002 (2025-10-17)** – Desktop log directory, automatic fallback handling, refreshed release binaries.
 
 ## Troubleshooting
@@ -41,5 +41,3 @@ On macOS you may see a Files & Folders permission prompt when the mod first targ
 - **Manual export fails:** Ensure Dubs Performance Analyzer is enabled; the mod logs a warning if it cannot reflect into Analyzer types.
 - **Hotspot spam:** Increase the thresholds in Mod Settings or disable the hotspot summary checkbox.
 
-## Contributing / Support
-This repository is part of the Nano workspace. Updates are logged in `DrDiagnostic/Notes/progress_log.txt`; release binaries live under `release/DrDiagnostic/`.
