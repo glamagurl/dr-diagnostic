@@ -33,7 +33,7 @@ Open **Options → Mod Settings → Dr Diagnostic** to adjust:
 On macOS you may see a Files & Folders permission prompt when the mod first targets the Desktop. Grant access to keep logs on the Desktop; otherwise the fallback path engages automatically.
 
 ## Releases
-- **r001 (2025-10-17)** – Initial public release; independent packageId `roseberry.drdiagnostic`.
+- **r001 (2025-10-17)** – Initial public release; independent packageId `narcessa.drdiagnostic`.
 - **r002 (2025-10-17)** – Desktop log directory, automatic fallback handling, refreshed release binaries.
 
 ## Troubleshooting
