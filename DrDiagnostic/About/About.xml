@@ -1,7 +1,7 @@
 <ModMetaData>
   <name>Dr Diagnostic</name>
-  <packageId>roseberry.drdiagnostic</packageId>
-  <author>roseberry &amp; Codex</author>
+  <packageId>narcessa.drdiagnostic</packageId>
+  <author>narcessa</author>
   <description>Standalone analyzer tools that capture Dubs Performance Analyzer snapshots, highlight hotspots, and write portable logs for any RimWorld colony. No Nano Synergy dependency required.</description>
   <supportedVersions>
     <li>1.6</li>
