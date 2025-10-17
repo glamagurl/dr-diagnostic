@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <GameComponentDef Class="Verse.GameComponentDef">
+    <defName>DrDiagnostic_GameComponent</defName>
+    <componentClass>DrDiagnostic.GameComponent_AnalyzerExporter</componentClass>
+  </GameComponentDef>
+</Defs>

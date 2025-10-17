@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest>
+  <identifier>roseberry.drdiagnostic</identifier>
+  <name>Dr Diagnostic</name>
+  <author>roseberry &amp; Codex</author>
+  <url></url>
+  <description>Standalone tooling that exports Dubs Performance Analyzer profiler results and hotspot summaries for any RimWorld load order.</description>
+  <version>0.1.0</version>
+</Manifest>
