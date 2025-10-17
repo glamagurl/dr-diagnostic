@@ -1,6 +1,6 @@
 # Dr Diagnostic
 
-Standalone analyzer companion for RimWorld 1.6 that captures snapshots from **Dubs Performance Analyzer** and writes portable logs you can review or share. Originally forked from the in-house Nano Diagnostics tools, Dr Diagnostic is designed for any load order—no Nano Synergy dependency required.
+Standalone analyzer companion for RimWorld 1.6 that captures snapshots from **Dubs Performance Analyzer** and writes portable logs you can review or share. Originally forked from the in-house diagnostics tools, Dr Diagnostic is designed for any load order.
 
 ## Features
 - Automated CSV exports of Analyzer samples on a configurable interval.
