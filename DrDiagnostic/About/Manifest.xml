@@ -2,7 +2,7 @@
 <Manifest>
   <identifier>roseberry.drdiagnostic</identifier>
   <name>Dr Diagnostic</name>
-  <author>roseberry</author>
+  <author>narcessa</author>
   <url></url>
   <description>Standalone tooling that exports Dubs Performance Analyzer profiler results and hotspot summaries for any RimWorld load order.</description>
   <version>0.1.0</version>
