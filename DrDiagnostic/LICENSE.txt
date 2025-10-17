@@ -1,7 +1,7 @@
 Dr Diagnostic Mod License
 =========================
 
-Copyright © 2025 roseberry
+Copyright © 2025 Narcessa
 
 All rights reserved. This mod and its source code are provided for personal use only. You may install and use the compiled binaries in your own RimWorld game, but you may not do any of the following without prior written permission from the copyright holder:
 
