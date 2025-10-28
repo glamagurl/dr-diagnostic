@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModSyncNinja_Data>
+  <ID>narcessa.drdiagnostic</ID>
+  <ModName>Dr Diagnostic</ModName>
+  <Version>1.0.8</Version>
+  <Author>narcessa</Author>
+  <SupportedVersions>
+    <li>1.6</li>
+  </SupportedVersions>
+  <DownloadUrl></DownloadUrl>
+  <GitHubRepository></GitHubRepository>
+  <SteamWorkshopUrl></SteamWorkshopUrl>
+  <DiscordUrl></DiscordUrl>
+  <ModSyncDescription>Dr Diagnostic exports Dubs Performance Analyzer snapshots (top samples, hotspot summary, offenders, patch load) to DrDiagnostic Logs/ alongside the RimWorld app and captures freeze dumps for troubleshooting.</ModSyncDescription>
+</ModSyncNinja_Data>
