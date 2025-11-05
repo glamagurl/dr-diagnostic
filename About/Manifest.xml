@@ -5,5 +5,5 @@
   <author>narcessa</author>
   <url></url>
   <description>Standalone tooling that exports Dubs Performance Analyzer profiler results and hotspot summaries for any RimWorld load order.</description>
-  <version>1.0.13</version>
+  <version>1.0.14</version>
 </Manifest>
